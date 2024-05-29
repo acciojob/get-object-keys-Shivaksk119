@@ -1,8 +1,8 @@
 //your JS code here. If required.
-student{
+let student{
 	name: "Shiva Kumar"
 }
 
-Object.Prototype.getKeys = ()=>{
+Object.prototype.getKeys = ()=>{
 	return Object.keys(this);
 }
